@@ -19,7 +19,7 @@ http://localhost:3000
 
 nodejs https://nodejs.org/ja
 
-## 📚 参考リンク
+## 📚 API取得
 
 ### 📘 YouTube Data API v3
 
