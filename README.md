@@ -19,11 +19,21 @@ http://localhost:3000
 
 nodejs https://nodejs.org/ja
 
-情報
-https://developers.google.com/youtube/v3/getting-started?hl=ja&_gl=1*jf8mlv*_up*MQ..*_ga*NzcwNzA4NTE2LjE3NzIyNzQxNDc.*_ga_SM8HXJ53K2*czE3NzIyNzQxNDYkbzEkZzAkdDE3NzIyNzQxODUkajIxJGwwJGgw
-｜
-https://developers.google.com/youtube/v3/docs?hl=ja
-｜
-https://console.cloud.google.com/enable-mfa?redirectTo=%2Fwelcome%3Fproject%3Dtemporal-parser-393713&project=temporal-parser-393713
+## 📚 参考リンク
+
+### 📘 YouTube Data API v3
+
+- 🚀 [Getting Started（はじめ方）](https://developers.google.com/youtube/v3/getting-started?hl=ja)  
+  → APIの導入手順と基本説明
+
+- 📖 [API リファレンス](https://developers.google.com/youtube/v3/docs?hl=ja)  
+  → 各エンドポイントの詳細仕様
+
+---
+
+### 🔐 Google Cloud
+
+- 🛡 [MFA 設定ページ](https://console.cloud.google.com/enable-mfa)  
+  → アカウントのセキュリティ強化
 
 ※あ、この後先生にばれました。
